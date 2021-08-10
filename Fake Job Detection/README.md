@@ -23,3 +23,6 @@ For this project, I have used the following libraries:
 	19. Confusion_Matrix
 	20. Metrics
 
+Dataset: <br>
+
+There are around 800 false job descriptions among the 18K job descriptions in the dataset. The information includes both textual and meta-information about the jobs. The dataset has been used to train classification models that can detect spurious job descriptions.
