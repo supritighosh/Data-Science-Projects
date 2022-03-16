@@ -2,4 +2,4 @@
 
 Learning Outcome:<br>
 - [Fake Job Detection](/Fake%20Job%20Detection) <br>
-- [Classification](/Classificarion) <br>
+- [Classification](/Classification) <br>
